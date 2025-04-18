@@ -1,4 +1,3 @@
-# CecepMaxxx
 
 # 项目描述
 标书大模型（通过
@@ -18,4 +17,3 @@
 4.excel中的sheet名与每章节名称一致，每一章的替换字段在相应的sheet中填写
 5.excel中的“生成指令表”sheet用于批量在标记过的位置（“gen-xxx”）输入调用大模型的prompt
 6.在运行my_main.py前，务必创建好`Template.docx`，`需求对应表v3.xlsx`
-
