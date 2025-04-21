@@ -17,3 +17,6 @@
 4.excel中的sheet名与每章节名称一致，每一章的替换字段在相应的sheet中填写
 5.excel中的“生成指令表”sheet用于批量在标记过的位置（“gen-xxx”）输入调用大模型的prompt
 6.在运行my_main.py前，务必创建好`Template.docx`，`需求对应表v3.xlsx`
+注意，在excel中，请严格按照样例中的行列输入自己的数据，否则会报错
+
+my_gen_biaoshu.py是迭代后的保留文档样式的版本
